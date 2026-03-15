@@ -1,0 +1,23 @@
+# Build output
+target/
+
+# Database (created on first run)
+config/Banking.db
+
+# Runtime data
+contacts.json
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
